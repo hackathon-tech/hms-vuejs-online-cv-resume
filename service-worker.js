@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b560c1e0a74c064e0f34658247679c13.js"
+  "/hms-vuejs-online-cv-resume/precache-manifest.5095dd1871661a69b244239704c8fed3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hms-online-cv"});
