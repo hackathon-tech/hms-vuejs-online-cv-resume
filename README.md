@@ -1,5 +1,5 @@
 
-# hms-vuejs-online-cv-resume
+# HMA Vuejs Online CV Resume
 
 
 <p align="center">
