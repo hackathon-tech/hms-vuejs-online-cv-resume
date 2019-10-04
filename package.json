@@ -1,0 +1,64 @@
+{
+  "name": "hms-online-cv",
+  "version": "1.0.0",
+  "description": "The most complete & A Nice Boilerplate Template for creating your online resume or cv in Vue.js, Its a boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices.",
+  "author": "Muhammad Ayoub Khan <ayoubkhan558@hotmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vuesion/vuesion.git"
+  },
+  "homepage": "https://github.com/vuesion/vuesion",
+  "bugs": {
+    "url": "https://github.com/vuesion/vuesion/issues"
+  },
+  "keywords": [
+    "vue",
+    "vuex",
+    "vue-router",
+    "webpack",
+    "typescript",
+    "server-side-rendering",
+    "boilerplate",
+    "jest",
+    "enterprise",
+    "components",
+    "design-system"
+  ],
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^2.6.5",
+    "register-service-worker": "^1.6.2",
+    "vue": "^2.6.10",
+    "vue-class-component": "^7.0.2",
+    "vue-my-photos": "^1.0.4",
+    "vue-owl-carousel": "^2.0.3",
+    "vue-property-decorator": "^8.1.0",
+    "vue-router": "^3.0.3",
+    "vue2-google-maps": "^0.10.7",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-plugin-eslint": "^3.11.0",
+    "@vue/cli-plugin-pwa": "^3.11.0",
+    "@vue/cli-plugin-typescript": "^3.11.0",
+    "@vue/cli-service": "^3.11.0",
+    "@vue/eslint-config-prettier": "^5.0.0",
+    "@vue/eslint-config-typescript": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "node-sass": "^4.9.0",
+    "prettier": "^1.18.2",
+    "sass-loader": "^7.1.0",
+    "typescript": "^3.4.3",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
