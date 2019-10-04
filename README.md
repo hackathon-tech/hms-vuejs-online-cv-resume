@@ -1,9 +1,9 @@
 
-# HMA Vuejs Online CV Resume
+# HMS Vuejs Online CV Resume
 
 
 <p align="center">
-  <img src="./data/screely-1570214571722.png">
+  <img src="./data/screenshot1.png">
 </p>
 
 **[hms-vuejs-online-cv-resume](https://ayoubkhan-projects.github.io/hms-vuejs-online-cv-resume)**
