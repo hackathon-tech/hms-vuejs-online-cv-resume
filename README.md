@@ -1,4 +1,12 @@
-# hms-online-cv
+
+# hms-vuejs-online-cv-resume
+
+
+<p align="center">
+  <img src="./data/screely-1570214571722.png">
+</p>
+
+**[hms-vuejs-online-cv-resume](https://ayoubkhan-projects.github.io/hms-vuejs-online-cv-resume)**
 
 ## Project setup
 ```
